@@ -1,10 +1,24 @@
+import { Link, Route, Switch } from 'react-router-dom';
 import './App.css';
+import Home from './Component/Home';
+import NoMatch from './Component/NoMatch';
+import Projects from './Component/Projects';
+import Stacks from './Component/Stacks';
 
 function App() {
   return (
     <div className="App">
-      <h1>Johne Alves</h1>
-      <h2>Front-end developer</h2>
+      <nav>
+        <Link exact to="/">Home</Link>
+        <Link exact to="/stacks">Stacks</Link>
+        <Link exact to="/projects">Projects</Link>
+      </nav>
+      <Switch>
+        <Route exact path="/" component={ Home } />
+        <Route path="/stacks" component={ Stacks } />
+        <Route path="/projects" component={ Projects } />
+        <Route component={ NoMatch }/>
+      </Switch>
     </div>
   );
 }
