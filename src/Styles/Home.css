@@ -1,0 +1,52 @@
+.home-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 30rem;
+}
+
+.info-container span {
+  color: #236bbe;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.home-container h1 {
+  color: #236bbe;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.home-container h2 {
+  align-items:baseline;
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 5px;
+}
+
+.home-container button {
+  background-color:#236bbe;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  font-size: 1.2rem;
+  font-weight: 900;
+  padding: 10px 20px;
+  margin: 0.5rem;
+}
+.home-container button:hover {
+  background-color: blueviolet;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.linha-vertical {
+  border: 2px solid #236bbe;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  height: 18px;/*Altura da linha*/
+  margin-right: 4px;
+}
