@@ -3,7 +3,9 @@ import React, { Component } from 'react';
 class Stacks extends Component {
   render() {
     return (
-      <p>Padina de Stacks</p>
+      <div>
+        <h1>My Stacks</h1>
+      </div>
     );
   }
 }

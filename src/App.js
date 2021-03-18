@@ -7,12 +7,14 @@ import Stacks from './Component/Stacks';
 
 function App() {
   return (
-    <div className="App">
-      <nav>
-        <Link exact to="/">Home</Link>
-        <Link exact to="/stacks">Stacks</Link>
-        <Link exact to="/projects">Projects</Link>
-      </nav>
+    <div>
+      <header>
+        <nav>
+          <Link exact to="/">Home</Link>
+          <Link exact to="/stacks">Stacks</Link>
+          <Link exact to="/projects">Projects</Link>
+        </nav>
+      </header>
       <Switch>
         <Route exact path="/" component={ Home } />
         <Route path="/stacks" component={ Stacks } />
