@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/johnealves.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/johnealves.github.io/static/js/main.e543344e.chunk.js",
-    "main.js.map": "/johnealves.github.io/static/js/main.e543344e.chunk.js.map",
-    "runtime-main.js": "/johnealves.github.io/static/js/runtime-main.a09615b8.js",
-    "runtime-main.js.map": "/johnealves.github.io/static/js/runtime-main.a09615b8.js.map",
-    "static/js/2.d0f1fc4d.chunk.js": "/johnealves.github.io/static/js/2.d0f1fc4d.chunk.js",
-    "static/js/2.d0f1fc4d.chunk.js.map": "/johnealves.github.io/static/js/2.d0f1fc4d.chunk.js.map",
-    "static/js/3.4fb5e575.chunk.js": "/johnealves.github.io/static/js/3.4fb5e575.chunk.js",
-    "static/js/3.4fb5e575.chunk.js.map": "/johnealves.github.io/static/js/3.4fb5e575.chunk.js.map",
+    "main.css": "/johnealves.github.io/static/css/main.f8b95924.chunk.css",
+    "main.js": "/johnealves.github.io/static/js/main.cc87cada.chunk.js",
+    "main.js.map": "/johnealves.github.io/static/js/main.cc87cada.chunk.js.map",
+    "runtime-main.js": "/johnealves.github.io/static/js/runtime-main.81784b32.js",
+    "runtime-main.js.map": "/johnealves.github.io/static/js/runtime-main.81784b32.js.map",
+    "static/js/2.4d16bdeb.chunk.js": "/johnealves.github.io/static/js/2.4d16bdeb.chunk.js",
+    "static/js/2.4d16bdeb.chunk.js.map": "/johnealves.github.io/static/js/2.4d16bdeb.chunk.js.map",
+    "static/js/3.c77c339c.chunk.js": "/johnealves.github.io/static/js/3.c77c339c.chunk.js",
+    "static/js/3.c77c339c.chunk.js.map": "/johnealves.github.io/static/js/3.c77c339c.chunk.js.map",
     "index.html": "/johnealves.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/johnealves.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d0f1fc4d.chunk.js.LICENSE.txt": "/johnealves.github.io/static/js/2.d0f1fc4d.chunk.js.LICENSE.txt"
+    "static/css/main.f8b95924.chunk.css.map": "/johnealves.github.io/static/css/main.f8b95924.chunk.css.map",
+    "static/js/2.4d16bdeb.chunk.js.LICENSE.txt": "/johnealves.github.io/static/js/2.4d16bdeb.chunk.js.LICENSE.txt",
+    "static/media/home.92d0030a.png": "/johnealves.github.io/static/media/home.92d0030a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a09615b8.js",
-    "static/js/2.d0f1fc4d.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e543344e.chunk.js"
+    "static/js/runtime-main.81784b32.js",
+    "static/js/2.4d16bdeb.chunk.js",
+    "static/css/main.f8b95924.chunk.css",
+    "static/js/main.cc87cada.chunk.js"
   ]
 }
