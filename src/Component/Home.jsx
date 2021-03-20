@@ -9,7 +9,10 @@ class Home extends Component {
         <section className='info-container'>
           <h1>Johne Alves</h1>
           <h2><span className='linha-vertical'/>Front-end Developer</h2>
-          <p>Welcome to my world. This is where I show all my experience and passion for development.</p>
+          <p>
+            Este é o meu portifolio onde exponho meus pricipais trabalhos e meu amor pela programação.<br/>
+            Sou formado em Economia pela UFRRJ mas atualmente estudo desenvolvimento web full stack na Trybe.
+          </p>
           <div>
             <a href="https://www.linkedin.com/in/johne-alves/"  target="_blank" rel="noreferrer">
               <button>LinkedIn</button>
@@ -19,7 +22,7 @@ class Home extends Component {
             </a>
           </div>
         </section>
-        <section className="image">
+        <section className="image-home">
             <img className="image-top" src={ homeImage } alt={ 'imagem-principal' } />
         </section>
       </section>
