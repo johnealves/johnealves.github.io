@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/johnealves.github.io/static/css/main.59a8470d.chunk.css",
-    "main.js": "/johnealves.github.io/static/js/main.dd449638.chunk.js",
-    "main.js.map": "/johnealves.github.io/static/js/main.dd449638.chunk.js.map",
-    "runtime-main.js": "/johnealves.github.io/static/js/runtime-main.b0cd5077.js",
-    "runtime-main.js.map": "/johnealves.github.io/static/js/runtime-main.b0cd5077.js.map",
-    "static/js/2.f9460595.chunk.js": "/johnealves.github.io/static/js/2.f9460595.chunk.js",
-    "static/js/2.f9460595.chunk.js.map": "/johnealves.github.io/static/js/2.f9460595.chunk.js.map",
-    "static/js/3.559e8a92.chunk.js": "/johnealves.github.io/static/js/3.559e8a92.chunk.js",
-    "static/js/3.559e8a92.chunk.js.map": "/johnealves.github.io/static/js/3.559e8a92.chunk.js.map",
+    "main.css": "/johnealves.github.io/static/css/main.2edfb5dd.chunk.css",
+    "main.js": "/johnealves.github.io/static/js/main.4ffae1a6.chunk.js",
+    "main.js.map": "/johnealves.github.io/static/js/main.4ffae1a6.chunk.js.map",
+    "runtime-main.js": "/johnealves.github.io/static/js/runtime-main.adc231d5.js",
+    "runtime-main.js.map": "/johnealves.github.io/static/js/runtime-main.adc231d5.js.map",
+    "static/js/2.d7151819.chunk.js": "/johnealves.github.io/static/js/2.d7151819.chunk.js",
+    "static/js/2.d7151819.chunk.js.map": "/johnealves.github.io/static/js/2.d7151819.chunk.js.map",
+    "static/js/3.f4c28831.chunk.js": "/johnealves.github.io/static/js/3.f4c28831.chunk.js",
+    "static/js/3.f4c28831.chunk.js.map": "/johnealves.github.io/static/js/3.f4c28831.chunk.js.map",
     "index.html": "/johnealves.github.io/index.html",
-    "static/css/main.59a8470d.chunk.css.map": "/johnealves.github.io/static/css/main.59a8470d.chunk.css.map",
-    "static/js/2.f9460595.chunk.js.LICENSE.txt": "/johnealves.github.io/static/js/2.f9460595.chunk.js.LICENSE.txt",
+    "static/css/main.2edfb5dd.chunk.css.map": "/johnealves.github.io/static/css/main.2edfb5dd.chunk.css.map",
+    "static/js/2.d7151819.chunk.js.LICENSE.txt": "/johnealves.github.io/static/js/2.d7151819.chunk.js.LICENSE.txt",
+    "static/media/foto-my-pokedex.be61ff66.png": "/johnealves.github.io/static/media/foto-my-pokedex.be61ff66.png",
+    "static/media/g13-store.575162e8.png": "/johnealves.github.io/static/media/g13-store.575162e8.png",
     "static/media/home.92d0030a.png": "/johnealves.github.io/static/media/home.92d0030a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0cd5077.js",
-    "static/js/2.f9460595.chunk.js",
-    "static/css/main.59a8470d.chunk.css",
-    "static/js/main.dd449638.chunk.js"
+    "static/js/runtime-main.adc231d5.js",
+    "static/js/2.d7151819.chunk.js",
+    "static/css/main.2edfb5dd.chunk.css",
+    "static/js/main.4ffae1a6.chunk.js"
   ]
 }
