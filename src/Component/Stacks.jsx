@@ -8,7 +8,7 @@ class Stacks extends Component {
   render() {
     return (
       <div className="stack-container">
-        <h1>My Stacks</h1>
+        <h1 className="title-page">My Stacks</h1>
         <ul className="stack-list-container">
           <li><span><SiGnubash /></span>Unix & bash</li>
           <li><span><SiGit /></span>Git & GitHub</li>
