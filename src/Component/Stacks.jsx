@@ -18,7 +18,7 @@ class Stacks extends Component {
           <li><span><SiReact /></span>Reacj.js</li>
           <li><span><SiRedux /></span>Redux</li>
           <li><span><VscJson /></span>Requisições API Rest</li>
-          <li><span><SiJest /></span>Jest</li>
+          <li><span><SiJest className="jest-icon"/></span>Jest</li>
           <li><span><GiGoat /></span>React Testing Library</li>
         </ul>
       </div>

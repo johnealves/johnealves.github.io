@@ -3,6 +3,8 @@
   flex-direction: row;
   flex-wrap: wrap;
   height: auto;
+  justify-content: center;
+  margin: auto;
   max-width: 1000px;
 }
 
