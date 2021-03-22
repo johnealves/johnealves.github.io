@@ -50,3 +50,9 @@
   height: 18px;/*Altura da linha*/
   margin-right: 4px;
 }
+
+@media (max-width: 820px) {
+  .image-home {
+    display: none;
+  }
+}

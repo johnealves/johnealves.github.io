@@ -10,15 +10,15 @@ function App() {
     <div>
       <header>
         <nav>
-          <Link exact to="/">Home</Link>
+          <Link exact to="/">Inicio</Link>
           <Link exact to="/stacks">Stacks</Link>
-          <Link exact to="/projects">Projects</Link>
+          <Link exact to="/projects">Projetos</Link>
         </nav>
       </header>
       <Switch>
         <Route exact path="/" component={ Home } />
-        <Route path="/stacks" component={ Stacks } />
-        <Route path="/projects" component={ Projects } />
+        <Route exact path="/stacks/" component={ Stacks } />
+        <Route exact path="/projects/" component={ Projects } />
         <Route component={ NoMatch }/>
       </Switch>
     </div>
