@@ -46,8 +46,9 @@
 }
 
 .linha-vertical {
-  border: 2px solid #236bbe;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
-  height: 18px;/*Altura da linha*/
+  background-color: #236bbe;
+  border: 2px solid #236bbe;
+  height: 18px;
   margin-right: 4px;
 }
 

@@ -5,10 +5,12 @@
 }
 
 body {
-  background-color: #060608;
+  /* background-color: #1E252E; */
+  background-image: linear-gradient(to right top, #03484e, #360033);
   color: #E7DFDD;
   font-family: "Inter", Helvetica, Arial, sans-serif;
   margin: 0 1rem;
+  min-height: 100vh;
   padding: 0;
 }
 
@@ -52,4 +54,15 @@ nav a {
 
 .title-page {
   text-align: center;
+}
+
+.hamburguer {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .main-menu {
+    display: flex;
+  }
+
 }
