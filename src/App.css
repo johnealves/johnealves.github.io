@@ -55,3 +55,14 @@ nav a {
 .title-page {
   text-align: center;
 }
+
+.hamburguer {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .main-menu {
+    display: flex;
+  }
+
+}
