@@ -1,29 +1,57 @@
 import React, { Component } from 'react';
-import { SiGnubash, SiHtml5, SiGit, SiCss3, SiJavascript, SiReact, SiRedux, SiJest } from 'react-icons/si';
+import { 
+  SiGnubash,
+  SiHtml5,
+  SiGit,
+  SiCss3,
+  SiJavascript,
+  SiReact,
+  SiRedux,
+  SiJest,
+  SiNodeDotJs,
+  SiMongodb,
+} from 'react-icons/si';
 import { VscJson } from 'react-icons/vsc'
-import { GiGoat } from 'react-icons/gi'
+import { GrMysql } from 'react-icons/gr'
 import '../Styles/stacks.css';
 
-class Stacks extends Component {
-  render() {
-    return (
-      <div className="stack-container">
-        <h1 className="title-page">My Stacks</h1>
-        <ul className="stack-list-container">
-          <li><span><SiGnubash /></span>Unix & bash</li>
-          <li><span><SiGit /></span>Git & GitHub</li>
-          <li><span><SiHtml5 /></span>Html 5</li>
-          <li><span><SiCss3 /></span>CSS 3</li>
-          <li><span><SiJavascript /></span>JavaScript</li>
-          <li><span><SiReact /></span>Reacj.js</li>
-          <li><span><SiRedux /></span>Redux</li>
-          <li><span><VscJson /></span>Requisições API Rest</li>
-          <li><span><SiJest className="jest-icon"/></span>Jest</li>
-          <li><span><GiGoat /></span>React Testing Library</li>
-        </ul>
+function Stacks() {
+  return (
+    <div className="stack-container">
+      <h1 className="title-page">DevTools</h1>
+      <div className="stack-list-container">
+        <div className="stack-card">
+          <SiGit className="icon" color='#e94e31'/>
+          Git & Github
+        </div>
+        <div className="stack-card">
+          <SiHtml5 className="icon" color='#f06529'/>
+          Html 5
+        </div>
+        <div className="stack-card">
+          <SiCss3 className="icon" color="#1e90ff" />CSS 3
+        </div>
+        <div className="stack-card">
+          <SiJavascript className="icon" color="#f7df1e" />JavaScript
+        </div>
+        <div className="stack-card">
+          <SiReact className="icon" color="#61dafb" />Reacj.js
+        </div>
+        <div className="stack-card">
+          <SiRedux className="icon" color="#764abc" />Redux
+        </div>
+        <div className="stack-card">
+          <SiNodeDotJs className="icon" color="#8CBF3D" />Node.js
+        </div>
+        <div className="stack-card">
+          <GrMysql className="icon" color="#1D4A65" />MySQL
+        </div>
+        <div className="stack-card">
+          <SiMongodb className="icon" color="#4E9144" />MongoDB
+        </div>
       </div>
-    );
-  }
+    </div>
+  );
 }
 
 export default Stacks;

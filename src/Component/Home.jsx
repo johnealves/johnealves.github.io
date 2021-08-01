@@ -8,10 +8,9 @@ class Home extends Component {
       <section className='home-container' id='home'>
         <section className='info-container'>
           <h1>Johne Alves</h1>
-          <h2><span className='linha-vertical'/>Front-end Developer</h2>
+          <h2><span className='linha-vertical'/>Full-stack Developer</h2>
           <p>
             Este é o meu portifolio onde exponho meus pricipais trabalhos e meu amor pela programação.<br/>
-            Sou formado em Economia pela UFRRJ mas atualmente estudo desenvolvimento web full stack na Trybe.
           </p>
           <div>
             <a href="https://www.linkedin.com/in/johne-alves/"  target="_blank" rel="noreferrer">

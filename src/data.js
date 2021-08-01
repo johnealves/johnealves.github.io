@@ -1,5 +1,5 @@
 import g13 from './Assets/g13-store.png'
-import pokedex from './Assets/foto-my-pokedex.png'
+import trivia from './Assets/trivia.png'
 
 const projectList = [
   {
@@ -9,10 +9,10 @@ const projectList = [
     link: 'https://johnealves.github.io/g13-store/',
   },
   {
-    name: "My Pokedex",
-    description: "Um catalogo feito em react com informações dos pokemons da primeira geração",
-    image: pokedex,
-    link: 'https://johnealves.github.io/my-pokedex/',
+    name: "Trivia game",
+    description: 'Aplicação web que gera um perguntas aleatorias com multiplas opções de resposta utilizado a API "Open Trivia Databse"',
+    image: trivia,
+    link: 'https://johnealves.github.io/trivia-game/',
   }
 ]
 
